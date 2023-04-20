@@ -4,6 +4,8 @@ This is the File Transfer module for [**NEMP Server**](https://github.com/libers
 
 This module is for file transfer.
 
+If you just want to get your free NEMP mailbox hosted on our server, please navigate to: **https://nemp.io**
+
 ## Installation
 
 - Open the NEMP Web Admin on your server
