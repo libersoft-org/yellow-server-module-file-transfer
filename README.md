@@ -1,4 +1,4 @@
-# Yellow Server File Transfer module
+# Yellow Server - File Transfer Module
 
 [![Created Badge](https://badges.pufler.dev/created/libersoft-org/yellow-server-module-file-transfer)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/libersoft-org/yellow-server-module-file-transfer)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/libersoft-org/yellow-server-module-file-transfer)](https://badges.pufler.dev)
 
